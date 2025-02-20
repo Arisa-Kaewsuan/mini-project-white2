@@ -1,3 +1,7 @@
 .review-card.active {
   background-color: #ffa502;
 }
+
+.review-card {
+  background-color: #fff;
+}
